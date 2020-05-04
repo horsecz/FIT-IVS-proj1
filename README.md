@@ -1,3 +1,9 @@
-# FIT-VUT-IVS-1
+# IVS - projekt 1
+- Prvni projekt do predmetu IVS - testovani softwaru
+- Obsahuje pouze zdrojove soubory mnou vypracovane - Whitebox a Blackbox testy (TDD nevypracovano)
 
-Prvni projekt do predmetu IVS - testovani softwaru. Obsahuje pouze zdrojove soubory mnou vypracovane - Whitebox a Blackbox testy (TDD nevypracovano). (hodnoceno 11/18 -> -1b za whitebox a zbytek za TDD)
+# Hodnoceni
+- 11/18
+
+# Poznamka
+- (-1b) za whitebox a zbytek (-6b) za TDD
